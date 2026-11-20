@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BirthdayWish" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#8B5CF6</item>
+        <item name="colorPrimaryVariant">#6D28D9</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#EC4899</item>
+        <item name="android:statusBarColor">#6D28D9</item>
+        <item name="android:navigationBarColor">#17152B</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+</resources>
